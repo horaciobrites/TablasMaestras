@@ -3,3 +3,4 @@ Tiene que tener dos pestañas, la primera es de productosPT y se añaden nuevos 
 La seguda pestaña es de productosPP, tambien el usuario aprueba añadir productos nuevos y modifica materiales existentes.
 Tiene que tener la funcion de modificacion masiva, es decir, selecciono una escuadria y modifico la familia de la escuadria a todos los que coinciden con el criterio de busqueda.
 Mejorar y robustecer el script que carga los registros nuevos.
+A futuro incorporaremos la seccion de materiales matrices.
