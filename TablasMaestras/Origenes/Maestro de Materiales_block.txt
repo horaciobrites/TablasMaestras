@@ -1,0 +1,15 @@
+18.11.2025                                                                                                                      Salida dinámica de lista                                                                                                                                                                            1
+
+
+	Objeto	Tipo objeto	Denomin.	Clase	Status	ESPECIE	Clase	Tipo de madera	Familia	Calidad	Terminación	ESTADO	Grado	Espesor Comercial	Ancho comercial	Largo Comercial	Espesor Nominal	Ancho Nominal	Largo Nominal	Espesor	  Ancho	Largo	PZA / PQT	Dimensión de FEALAM3	Factor ExAxL a M3	Formato Paquete	Densidad
+
+	1210045	Mat	PPLBLUSS4SESD 5/4x2 1/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	2 1/8	RL	         31,750	       57,150		 33,300	 53,975
+	1210046	Mat	PPLBLUSS4SESD 5/4x2 3/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	2 3/8	RL	         31,750	       63,500		 33,300	 60,325
+	1210047	Mat	PPLBLUSS4SESD 5/4x2 7/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	2 7/8	RL	         31,750	       76,200		 33,300	 73,025
+	1210048	Mat	PPLBLUSS4SESD 5/4x3 1/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	3 1/8	RL	         31,750	       82,550		 33,300	 79,375
+	1210049	Mat	PPLBLUSS4SESD 5/4x3 3/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	3 3/8	RL	         31,750	       88,900		 33,300	 85,725
+	1210050	Mat	PPLBLUSS4SESD 5/4x3 5/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	3 5/8	RL	         31,750	       95,250		 33,300	 92,075
+	1210051	Mat	PPLBLUSS4SESD 5/4x4 3/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	4 3/8	RL	         31,750	      114,300		 33,300	111,125
+	1210052	Mat	PPLBLUSS4SESD 5/4x4 7/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	4 7/8	RL	         31,750	      127,000		 33,300	123,825
+	1210053	Mat	PPLBLUSS4SESD 5/4x5 3/8xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	5 3/8	RL	         31,750	      139,700		 33,300	136,525
+	1210054	Mat	PPLBLUSS4SESD 5/4x5 3/4xRL	PR_BLOCK2	1	P	P	L	BL	US	S4	SE	SD	5/4	5 3/4	RL	         31,750	      149,225		 33,300	146,050
